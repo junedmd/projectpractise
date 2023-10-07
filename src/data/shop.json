@@ -1,0 +1,36 @@
+{
+    "title": " Tuntun Mausi Ke sweet shop",
+
+   "detail":[{
+        "title":"Motichor Ladoo",
+        "description":" Khawe aur ghee material",
+        "countity": " 1 KG",
+        "price": "₹100",
+        "image": "https://assets.zeezest.com/images/PROD_Id-992-Motichur-Laddu_1616758279527_thumb_800.jpeg?w=1920&q=75"
+   },
+   {
+    "title":"Cham Cham ",
+    "description":" khopra aur ghee ,rasmaly",
+    "countity": " 1 KG",
+    "price": "₹150",
+    "image":" https://5.imimg.com/data5/SELLER/Default/2020/11/TQ/EB/BB/44184428/cham-cham-500x500.jpg"
+
+   },
+   {
+    "title":" Gulab Jamun",
+    "description":" special mayada aur ghee",
+    "countity": " 1 cup",
+    "price": "₹50",
+    "image": "https://www.funfoodfrolic.com/wp-content/uploads/2014/08/Gulab-Jamun-2-1.jpg"
+   },
+   {
+    "title":"Rajasthani Peda",
+    "description":" Khawa aur ghee ,dhakla",
+    "countity": " 1 KG",
+    "price": "₹200",
+    "image": " https://5.imimg.com/data5/SELLER/Default/2023/5/304902417/LR/JN/OI/144220875/malai-peda-sweets-500x500.jpg"
+   }
+
+   ]
+
+}

@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.shop-conatainer{
+   background-image: url(./image/bg3.jpg);
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+
+    height: 100vh;
+}
+.box-cont{
+    display: flex ;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 500px;
+    width: 100%;
+    padding: 10px;
+   
+
+   
+}
+.bx1{
+    height: 400px;
+    width: 270px;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #e09189;
+   
+}
+.text1{
+    color: aliceblue;
+    font-size: 25px;
+}
+.text2{
+    color: aliceblue;
+    font-size: 20px;
+}
+.text3{
+    color: aliceblue;
+    font-size: 20px;
+}
+.text4{
+    color: aliceblue;
+    font-size: 20px;
+}
+.img1{
+    height: 200px;
+    width: 250px;
+}
